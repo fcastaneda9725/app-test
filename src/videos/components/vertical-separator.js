@@ -9,7 +9,6 @@ function VerticalSeparator(props) {
                         marginTop: (props.margin) ? props.margin : 10
                     }
             ]}>
-            {/* <Text>Esto es un separador</Text> */}
         </View>
     )
 }
